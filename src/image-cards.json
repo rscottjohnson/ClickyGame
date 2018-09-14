@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "codingScreen1",
+    "image": "../public/images/chris-ried-512801-unsplash.jpg",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "codingScreen2",
+    "image": "../public/images/henri-l-547224-unsplash.jpg",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "codingScreen3",
+    "image": "../public/images/ilya-pavlov-87438-unsplash.jpg",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "codingScreen4",
+    "image": "../public/images/marc-mueller-210523-unsplash.jpg",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "codingScreen5",
+    "image": "../public/images/markus-spiske-357131-unsplash.jpg",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "codingScreen6",
+    "image": "../public/images/markus-spiske-666904-unsplash.jpg",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "codingScreen7",
+    "image": "../public/images/nick-karvounis-381259-unsplash.jpg",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "codingScreen8",
+    "image": "../public/images/pankaj-patel-536207-unsplash.jpg",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "codingScreen9",
+    "image": "../public/images/pankaj-patel-626156-unsplash.jpg",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "codingScreen10",
+    "image": "../public/images/sai-kiran-anagani-61187-unsplash.jpg",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "codingScreen11",
+    "image": "../public/images/taras-shypka-424924-unsplash.jpg",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "codingScreen12",
+    "image": "../public/images/taras-shypka-424928-unsplash.jpg",
+    "count": 0
+  }
+]
