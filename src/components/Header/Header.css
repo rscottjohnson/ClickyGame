@@ -1,14 +1,18 @@
 .header {
   width: 100%;
-  font-size: 2rem;
-  color: #2A77AE;
+  font-size: 32px;
+  color: #17202A;
   margin-bottom: 10px;
 }
 
 .title {
   float: left;
+  font-family: 'Lobster', cursive;
+  margin-left: 48px;
 }
 
 .scores {
   float: right;
+  font-family: 'VT323', monospace;
+  margin-right: 48px;
 }
