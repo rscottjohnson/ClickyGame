@@ -1,7 +1,7 @@
 .card {
   background: #fff;
   border-radius: 2px;
-  height: 250px;
+  height: 225px;
   margin: 1rem;
   position: relative;
   width: 325px;
@@ -9,17 +9,20 @@
   text-align: left;
 }
 
-.card > .img-container {
+/* .card >  */
+.img-container {
   height: 100%;
   overflow: hidden;
   text-align: center;
-  background:#6CADDC;
+  background:#17202A;
 }
-.card > .img-container > img {
-  width: 60%
+/* .card > .img-container >  */
+img {
+  width: 100%
 }
 
-.card > .content {
+/* .card >  */
+.content {
   padding-left: 1rem;
   padding-right: 1rem;
   font-size: 15px;
